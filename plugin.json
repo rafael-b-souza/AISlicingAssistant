@@ -1,0 +1,9 @@
+{
+    "name": "AI Slicing Assistant",
+    "author": "Rafael",
+    "version": "0.2.0",
+    "api": 8,
+    "supported_sdk_versions": ["8.12.0"],
+    "description": "Suggests print-profile adjustments from photos of the loaded model and a stated intent, using any OpenAI-compatible chat API.",
+    "i18n-catalog": "cura"
+}
