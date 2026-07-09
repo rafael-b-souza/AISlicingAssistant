@@ -1,3 +1,13 @@
 __pycache__/
 *.pyc
 *.qmlc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# packaged output (rebuilt from source, not tracked)
+*.zip
+*.curapackage
