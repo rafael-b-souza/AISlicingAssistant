@@ -1,4 +1,4 @@
-# AI Slicing Assistant — Cura Plugin
+# Architecture # AI Slicing Assistant — Cura Plugin Technical Notes
 
 Cura Extension plugin: renders photos of the loaded model, sends them plus a stated intent and a whitelisted set of print settings to an OpenAI-compatible chat API, and shows a review table of suggested changes before applying anything to the active profile.
 
